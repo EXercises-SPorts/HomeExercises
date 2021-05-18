@@ -13,16 +13,16 @@
   background: #555; 
 }
 div.background1 {
-  background: url(https://raw.githubusercontent.com/raashika03/webtrial/master/ex_img/x8.jpg);
+  background: url(ex_img/x8.jpg);
   border: 2px solid black;
-height: 650px;
+  height: 650px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 div.background2 {
-  background: url(https://raw.githubusercontent.com/raashika03/webtrial/master/ex_img/x4.jpg);
+  background: url(ex_img/x4.jpg);
   border: 2px solid black;
 }
 div.transbox {
