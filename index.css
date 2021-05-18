@@ -43,3 +43,8 @@ tr.even {
   background-color: white;
   valign: top;
 }
+footer a.fa {
+  color: #0FFF50;
+  font-size: 2em;
+  padding: 5px;
+}
