@@ -1,0 +1,45 @@
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+div.background1 {
+  background: url(https://raw.githubusercontent.com/raashika03/webtrial/master/ex_img/x8.jpg);
+  border: 2px solid black;
+height: 650px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+div.background2 {
+  background: url(https://raw.githubusercontent.com/raashika03/webtrial/master/ex_img/x4.jpg);
+  border: 2px solid black;
+}
+div.transbox {
+  margin: 27.17% 0 0 0;
+  background-color: rgba(0,0,0,0.5);
+  color: #FFFFFF;
+}
+table {
+  width: 97%;
+  border: 1px solid black
+  border-spacing: 50px;
+}
+tr.odd {
+  background-color: #e2dfde;
+  valign: top;
+}
+tr.even {
+  background-color: white;
+  valign: top;
+}
